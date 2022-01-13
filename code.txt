@@ -1,0 +1,7 @@
+git init
+git status
+git add abc.py
+git rm --cached abc.py
+git commit -m "message"
+git checkout -b branchname
+git chechout master
